@@ -153,5 +153,6 @@ public class StringSplitterTest {
         public char getName() {
             return this.name;
         }
+
     }
 }
